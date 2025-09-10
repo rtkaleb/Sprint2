@@ -60,3 +60,9 @@ numexpr==2.7.2
 nltk==3.6.6
 urlextract==1.2.0
 
+
+##### Update of this file
+# I'm modifying this file as an excercise in the workshop
+Please, be gentle with me and my feedback, I have feelings
+
+
