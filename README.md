@@ -1,4 +1,4 @@
-# Sprint2
+# Handson my Master - Practice
 
 Sprint 2 del bootcamp **Bécalos Techno Ready Workshop/Bootcamp**, enfocado en Machine Learning.
 
